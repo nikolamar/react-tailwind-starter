@@ -1,16 +1,16 @@
 {
-  "name": "legal-service-cms",
+  "name": "react-tailwind-starter",
   "version": "1.0.0",
-  "description": "Legal Service CMS",
-  "homepage": "https://gitlab.com/securekey/dts/dsa/dsa-consumer-services/web-services/legal-service-cms#readme",
+  "description": "React Tailwind Starter",
+  "homepage": "https://gitlab.com/securekey/dts/dsa/dsa-consumer-services/web-services/react-tailwind-starter#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/securekey/dts/dsa/dsa-consumer-services/web-services/legal-service-cms.git"
+    "url": "git+https://gitlab.com/securekey/dts/dsa/dsa-consumer-services/web-services/react-tailwind-starter.git"
   },
   "author": "DTS",
   "license": "MIT",
   "bugs": {
-    "url": "https://gitlab.com/securekey/dts/dsa/dsa-consumer-services/web-services/legal-service-cms/issues"
+    "url": "https://gitlab.com/securekey/dts/dsa/dsa-consumer-services/web-services/react-tailwind-starter/issues"
   },
   "keywords": [
     "dts",

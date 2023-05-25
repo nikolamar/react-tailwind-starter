@@ -127,10 +127,10 @@ const App = (): JSX.Element => {
       </header>
       <section className={styles.copy}>
         <div className={styles.copyInner}>
-          <a href="https://gitlab.com/securekey/dts/dsa/dsa-consumer-services/web-services/legal-service-cms">
+          <a href="https://gitlab.com/securekey/dts/dsa/dsa-consumer-services/web-services/react-tailwind-starter">
             <Button>Visit on Gitlab</Button>
           </a>
-          <CopyButton text="git clone git@gitlab.com:securekey/dts/dsa/dsa-consumer-services/web-services/legal-service-cms.git" />
+          <CopyButton text="git clone git@gitlab.com:securekey/dts/dsa/dsa-consumer-services/web-services/react-tailwind-starter.git" />
         </div>
       </section>
       <section className={styles.features}>

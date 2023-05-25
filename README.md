@@ -1,4 +1,4 @@
-### Legacy Service CMS
+### React Tailwind Starter
 
 ## Features
 
