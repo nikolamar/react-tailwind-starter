@@ -22,7 +22,7 @@
   @apply text-2xl sm:text-4xl leading-none font-bold tracking-tight text-purple-400;
 }
 
-.headerTopTitleDTS {
+.headerTopTitle {
   @apply text-[gold] opacity-75;
 }
 

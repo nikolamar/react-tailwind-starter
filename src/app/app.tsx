@@ -105,7 +105,7 @@ const App = (): JSX.Element => {
     <main className={styles.main}>
       <header className={styles.header}>
         <h3 className={styles.headerTopTitle}>
-          <span className={styles.headerTopTitleDTS}>DTS</span> @ Vite Template
+          <span className={styles.headerTopTitle}>Starter</span> @ Vite Template
         </h3>
         <h1 className={styles.headerTitle}>React + TypeScript + Tailwind</h1>
         <p className={styles.headerDescription}>
@@ -128,9 +128,9 @@ const App = (): JSX.Element => {
       <section className={styles.copy}>
         <div className={styles.copyInner}>
           <a href="https://gitlab.com/securekey/dts/dsa/dsa-consumer-services/web-services/react-tailwind-starter">
-            <Button>Visit on Gitlab</Button>
+            <Button>Visit on Github</Button>
           </a>
-          <CopyButton text="git clone git@gitlab.com:securekey/dts/dsa/dsa-consumer-services/web-services/react-tailwind-starter.git" />
+          <CopyButton text="git clone https://github.com/nikolamar/react-tailwind-starter" />
         </div>
       </section>
       <section className={styles.features}>
@@ -151,7 +151,7 @@ const App = (): JSX.Element => {
       </section>
       <footer className={styles.footer}>
         <a href="https://github.com/jvidalv">
-          DTS @ {new Date().getFullYear()}
+          Template @ {new Date().getFullYear()}
         </a>
       </footer>
     </main>

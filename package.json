@@ -2,19 +2,22 @@
   "name": "react-tailwind-starter",
   "version": "1.0.0",
   "description": "React Tailwind Starter",
-  "homepage": "https://gitlab.com/securekey/dts/dsa/dsa-consumer-services/web-services/react-tailwind-starter#readme",
+  "homepage": "https://github.com/nikolamar/react-tailwind-starter#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/securekey/dts/dsa/dsa-consumer-services/web-services/react-tailwind-starter.git"
+    "url": "git+https://github.com/nikolamar/react-tailwind-starter.git"
   },
-  "author": "DTS",
+  "author": "Nikola Marjanovic <nikolamar@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://gitlab.com/securekey/dts/dsa/dsa-consumer-services/web-services/react-tailwind-starter/issues"
+    "url": "https://github.com/nikolamar/react-tailwind-starter/issues"
   },
   "keywords": [
-    "dts",
-    "cms"
+    "react",
+    "tailwind",
+    "starter",
+    "vite",
+    "typescript"
   ],
   "browserslist": [
     ">0.2%",
